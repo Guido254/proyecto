@@ -1,0 +1,21 @@
+﻿body {
+    background: #FAF7B3;
+}
+
+h3 {
+    background-color: #000000;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+
+
+p {
+    text-align: left;
+    font-family: Arial;
+    color: black;
+    font-weight: normal;
+}
+

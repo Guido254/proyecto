@@ -1,0 +1,98 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 140vh;
+    background-image: url("Stock/fondologin.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Login Position*/
+
+.sec2 {
+    position: absolute;
+    left: 9vw;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 450vw;
+    height: 60vw;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+    .sec2 .container {
+        width: 45vw;
+        height: 386vh;
+    }
+
+    .sec2 .social {
+        padding-left: 70vw;
+        padding-top: 27.5vh;
+    }
+
+    /*Login Position*/
+
+    .sec2 .container img {
+        padding-left: 78vw;
+        margin-left: 115px;
+}
+
+/*Register Text*/
+
+.content h2 {
+    font-family: 'Franklin Gothic';
+    padding-left: 8.5vw;
+    color: darkblue;
+}
+
+
+
+/*Login*/
+
+.container input[type=text] {
+    height: 30px;
+    border: 0;
+    margin-top: 6.5vh;
+    margin-left: 6vw;
+    border-radius: 70px;
+}
+
+.container input[type=password] {
+    border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    height: 30px;
+    margin-top: 2.5vh;
+    margin-left: 36px;
+    border-radius: 70px;
+    display: normal
+}
+
+/*Button*/
+.content input[type=submit] {
+    color: white;
+    margin-left: 9.5vw;
+    margin-top: 2vh;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 6px;
+    border: 1px solid;
+    background-color: black
+}
+
+/*/Text inside the TextBox/*/
+.content input[placeholder] {
+    font-family: Candara;
+    padding-left: 1vw;
+    font-size: 13px;
+    margin-top: 3px;
+}

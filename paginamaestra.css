@@ -1,0 +1,28 @@
+﻿body {
+    background: #B0E6FA;
+}
+
+div {
+    margin-left: 25%;
+}
+
+p{
+    text-align: left; 
+}
+
+
+h1 {
+    background-color: #044C83;
+    font-family: Arial Black;
+    color: white;
+    font-size: 4ex;
+    text-align: center;
+}
+
+h2 {
+    font-family: Bahnschrift;
+    color: black;
+    font-size: 3ex;
+    text-align: left;
+}
+

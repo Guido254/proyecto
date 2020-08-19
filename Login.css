@@ -1,0 +1,109 @@
+﻿body {
+    background-image: url("Stock/wallpaperlogin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+#log {
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    width: 500px;
+    padding: 15px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic';
+    color: darkblue;
+}
+/*section{
+    width: 100vw;
+    height: 140vh;
+    background-image: url("Stock/wallpaperlogin.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:fixed;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}*/
+/*Posición Login*/
+/*.sec2{
+    position:absolute;
+    left:5;
+    right:0;
+    top:0;
+    bottom:0;
+    width:80vw;
+    height:60vw;
+    display:flex;
+    justify-content:center;
+    align-items:start;
+
+}
+    .sec2 .container {
+        width: 45vw;
+        height: 36vh;
+    }
+    
+    .sec2 .social{
+        padding-left:60vw;
+        padding-top:27.5vh;
+    }*/
+
+    /*Posición Login*/
+    /*.sec2 .container img {
+        padding-left: 78vw;
+    }*/
+
+    /*Encabezado registrarse*/
+    /*.content h2{
+        font-family:'Franklin Gothic';
+        padding-left:7.5vw;
+        color:darkblue;
+    }*/
+    
+    /*Login*/
+
+    /*.content input[type=text]{
+        height:50%;
+        border:0;
+        margin-top:2.5vh;
+        margin-left:9vw;
+        border-radius:70px;
+    }
+
+    .content input[type=password]{
+        border-style: none;
+        border-color: inherit;
+        border-width: 0;
+        height: 30px;
+        margin-top: 2.5vh;
+        margin-left: 40px;
+        border-radius: 70px;
+}
+    }
+
+    / margin-left: 50%;
+    margin-top: 2vh;
+    border-radius: 6px;
+    background-color:black;
+
+   }*/
+
+/*/Letras dentro de las textbox/*/
+   /*.content input[placeholder]{
+    font-family:Candara;
+    padding-left:1vw;
+    font-size:13px;
+   }
+*Botón*/
+   .content input[type=submit] {
+    border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    padding: 10px 15px;
+    color: white;*/
+   

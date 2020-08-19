@@ -1,0 +1,19 @@
+﻿body {
+    background: #C2F2F9;
+}
+
+h2 {
+    background-color: #0099B1;
+    font-family: Verdana;
+    color: white;
+    font-size: 7ex;
+    text-align: center;
+}
+
+div {
+    margin-left: 40%;
+}
+
+p {
+    margin-left: 40%;
+}
